@@ -1,68 +1,219 @@
 <div style = "font-family: 'Roboto', sans-serif;">
 
-# Fundamentals
+# Introduction
 
-- [Database Roadmap 2024](https://www.youtube.com/watch?v=GBeWKa1Lc6I)
+- [Types of Databases](https://www.youtube.com/watch?v=VfcRxtBKI54)
+- [PostgreSQL](https://www.youtube.com/watch?v=n2Fluyr3lbc)
+- [MongoDB](https://www.youtube.com/watch?v=-bt_y4Loofg)
+- [Qdrant](https://www.youtube.com/watch?v=mXNrhyw4q84)
+
+# Database Design
+
 - [Database Design](https://www.youtube.com/watch?v=gZ5iYMkrcfQ)
-    - Entities ⟶ `strong` `weak`.
-    - Attributes ⟶ `simple` `composite` `single-valued` `multi-valued` `derived` `stored` `key` `complex`.
-- [Relationships in ER Diagrams](https://www.youtube.com/watch?v=hp1gX4kh3lw)
-- [Extended ER Features](https://www.youtube.com/watch?v=uujDdvDQsaE)
-- [Extended ER Constraints](https://www.youtube.com/watch?v=aLMb2HppQZw)
+- [Understanding Relationships](https://www.youtube.com/watch?v=hp1gX4kh3lw)
 - [Introduction to Relational Data Model](https://www.youtube.com/watch?v=Q45sr5p_NmQ)
 - [Characteristics of Relations](https://www.youtube.com/watch?v=J4hZbuTLyhI)
-- [Instances and Schemas in DBMS](https://www.youtube.com/watch?v=cOzq67n2yN4)
-- [Three-Schema Architecture and Data Independence](https://www.youtube.com/watch?v=vuXnRRG-m5M)
 - [Relational Model Constraints](https://www.youtube.com/watch?v=uPOGPL2C0_8)
-    - [Dealing with Constraint Violations](https://www.youtube.com/watch?v=lMthy1iwR3s)
-    - Cascade Deletes ⟶ `CASCADE` `RESTRICT` `SET NULL` `SET DEFAULT` `NO ACTION`.
+- [Handling Constraint Violations](https://www.youtube.com/watch?v=lMthy1iwR3s)
+- [Data Mapping Concepts](https://www.youtube.com/watch?v=3E_FTJ1KFyg)
+
+# References
+
+- [PostgreSQL](https://www.postgresql.org/docs)
+- [MongoDB](https://www.mongodb.com/docs)
+- [Qdrant](https://qdrant.tech/documentation)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+
+
+
+
+
+
+
+Keys and Normalization:
+Database Keys
+Normalization Concepts
+
+Relational Algebra:
+Relational Algebra Guide
+
+Database Storage:
+Intro to Database Storage
+Deep Dive into Storage Mechanisms
+
+Database Indexing:
+What is a Database Index?
+B and B+ Trees Explained
+Hash & Composite Indexes
+Index Operations: Intersection, Union, Clustered vs Non-Clustered
+Indexing Practice Questions
+
+Transactions and Concurrency Control:
+Introduction to Transactions
+SQL Transactions Tutorial
+Atomicity
+Consistency
+Strong vs Eventual Consistency
+Isolation
+Durability
+Durability Explained
+Transaction Scheduling
+Two-Phase Locking: Part 1
+Two-Phase Locking: Part 2
+Timestamp & Optimistic Concurrency Control
+Multiversion Concurrency Control (MVCC)
+
+Data Distribution and Scalability:
+Data Partitioning (Video)
+Data Partitioning (Article)
+Distributed Databases
+Database Sharding
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+
 - [Database Keys](https://www.youtube.com/watch?v=kgpiD3Z_swg)
 - [Database Normalization](https://www.youtube.com/watch?v=1HEHa_EJa0k)
 - [Relational Algebra](https://www.youtube.com/watch?v=OuFS0tcQXh8)
-
-# Storage
-
-- [Database Storage 01](https://www.youtube.com/watch?v=-HtHhBQbMB4)
-- [Database Storage 02](https://www.youtube.com/watch?v=8-LJyyAjOhE)
-
-# Indexes
-
-- [B and B+ Trees](https://www.youtube.com/watch?v=1ZhBULsbZGw)
-- [Hash and Composite Indexes](https://www.youtube.com/watch?v=ddWoqXw6Qic)
-- [Intersection, Union, Clustered vs. Non-Clustered](https://www.youtube.com/watch?v=KTEViriyc-Q)
-- [Indexing Questions](https://www.youtube.com/watch?v=wY_SxRMLTvA)
-
-# Transactions
-
+- [Database Storage](https://www.youtube.com/watch?v=-HtHhBQbMB4)
+    - [Database Storage](https://www.youtube.com/watch?v=8-LJyyAjOhE)
+- [What is a Database Index?](https://www.codecademy.com/article/sql-indexes)
+    - [B and B+ Trees](https://www.youtube.com/watch?v=1ZhBULsbZGw)
+    - [Hash and Composite Indexes](https://www.youtube.com/watch?v=ddWoqXw6Qic)
+    - [Intersection, Union, Clustered vs. Non-Clustered](https://www.youtube.com/watch?v=KTEViriyc-Q)
+    - [Indexing Questions](https://www.youtube.com/watch?v=wY_SxRMLTvA)
 - [Database Transactions](https://www.youtube.com/watch?v=ziH5Y4tvQJE)
     - [Understanding SQL Transactions](https://www.datacamp.com/tutorial/sql-transactions)
-- [Transaction Atomicity](https://www.datacamp.com/tutorial/atomicity)
-- [Transaction Consistency](https://en.wikipedia.org/wiki/Consistency_(database_systems))
-    - [Strong Consistency vs. Eventual Consistency](https://www.youtube.com/watch?v=WZqGS-wczaY)
-- [Transaction Isolation](https://en.wikipedia.org/wiki/Isolation_(database_systems))
-- [Transaction Durability](https://en.wikipedia.org/wiki/Durability_(database_systems))
-    - [Transaction Durability](https://medium.com/@jayantnehra18/database-fundamentals-durability-in-transactions-ef7d907b01c6)
-- [Transaction Schedules](https://www.youtube.com/watch?v=KRZTwTWiUek&list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF&index=19)
-
-# Concurrency Control
-
-- [Two-Phase Locking 01](https://www.youtube.com/watch?v=s8w-GplT6K4)
-- [Two-Phase Locking 02](https://www.youtube.com/watch?v=4Ll7zlC9f4w)
-- [Timestamp Ordering and Optimistic Concurrency Control](https://www.youtube.com/watch?v=f6sl5XFnAr4)
-- [Multiversion Concurrency Control](https://www.youtube.com/watch?v=RDry1RyIw1s)
-
-# Partitioning vs. Sharding
-
+    - [Transaction Atomicity](https://www.datacamp.com/tutorial/atomicity)
+    - [Transaction Consistency](https://en.wikipedia.org/wiki/Consistency_(database_systems))
+        - [Strong Consistency vs. Eventual Consistency](https://www.youtube.com/watch?v=WZqGS-wczaY)
+    - [Transaction Isolation](https://en.wikipedia.org/wiki/Isolation_(database_systems))
+    - [Transaction Durability](https://en.wikipedia.org/wiki/Durability_(database_systems))
+        - [Transaction Durability](https://medium.com/@jayantnehra18/database-fundamentals-durability-in-transactions-ef7d907b01c6)
+    - [Transaction Schedules](https://www.youtube.com/watch?v=KRZTwTWiUek&list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF&index=19)
+    - [Two-Phase Locking 01](https://www.youtube.com/watch?v=s8w-GplT6K4)
+    - [Two-Phase Locking 02](https://www.youtube.com/watch?v=4Ll7zlC9f4w)
+    - [Timestamp Ordering and Optimistic Concurrency Control](https://www.youtube.com/watch?v=f6sl5XFnAr4)
+    - [Multiversion Concurrency Control](https://www.youtube.com/watch?v=RDry1RyIw1s)
 - [Data Partitioning](https://www.youtube.com/watch?v=XnCnIWMxEhA)
     - [Data Partitioning](https://www.datacamp.com/blog/what-is-data-partitioning)
 - [Distributed Databases](https://www.youtube.com/watch?v=LujY8mdibGk)
-    - [Distributed Database Architecture](https://www.scylladb.com/glossary/distributed-database-architecture)
 - [Database Sharding](https://www.youtube.com/watch?v=-GXQwCIRANA)
 
-# Columnar Databases
 
-- [Columnar Databases 01](https://www.youtube.com/watch?v=8bDJPLhleeo)
-- [Columnar Databases 02](https://www.youtube.com/watch?v=4IJ9hK4BuiI)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+
 
 # SQL Practice
 
@@ -116,6 +267,12 @@
 - [585. Investments in 2016](https://leetcode.com/problems/investments-in-2016)
 - [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth)
 - [1341. Movie Rating](https://leetcode.com/problems/movie-rating)
+
+youtube.com/watch?v=eOVmvztKP4o
+https://www.youtube.com/watch?v=Y-nYllYu83Q
+
+
+
 
 # Indexes Practice
 
@@ -206,5 +363,3 @@ EXPLAIN SELECT * FROM test WHERE c LIKE '54CVf5SFLMBY_';
 EXPLAIN SELECT * FROM test WHERE c LIKE '54CVf5S_LMBYc';
 EXPLAIN SELECT * FROM test WHERE c LIKE '_4CVf5SFLMBYc';
 ```
-
-</div>
