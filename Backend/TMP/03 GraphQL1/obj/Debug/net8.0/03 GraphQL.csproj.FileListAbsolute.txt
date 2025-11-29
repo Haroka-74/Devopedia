@@ -1,0 +1,96 @@
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\appsettings.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\03 GraphQL.staticwebassets.endpoints.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\03 GraphQL.exe
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\03 GraphQL.deps.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\03 GraphQL.runtimeconfig.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\03 GraphQL.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\03 GraphQL.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\ChilliCream.Nitro.App.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\GreenDonut.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\GreenDonut.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\GreenDonut.Data.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\GreenDonut.Data.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\GreenDonut.Data.Primitives.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.AspNetCore.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.AspNetCore.CommandLine.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Authorization.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.CostAnalysis.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Execution.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Execution.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Execution.Projections.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Features.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Fetching.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Language.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Language.SyntaxTree.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Language.Utf8.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Language.Visitors.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Language.Web.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Primitives.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Subscriptions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Subscriptions.InMemory.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Transport.Sockets.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Types.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Types.CursorPagination.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Types.CursorPagination.Extensions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Types.Errors.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Types.Mutations.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Types.Queries.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Types.Scalars.Upload.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Types.Shared.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Utilities.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Utilities.DependencyInjection.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\HotChocolate.Validation.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\System.CommandLine.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Yarp.ReverseProxy.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\cs\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\de\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\es\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\fr\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\it\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\ja\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\ko\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\pl\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\ru\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\tr\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.AssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.sourcelink.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\scopedcss\bundle\03 GraphQL.styles.css
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.csproj.Up2Date
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\refint\03 GraphQL.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\03 GraphQL.genruntimeconfig.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\obj\Debug\net8.0\ref\03 GraphQL.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Bogus.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\03 GraphQL\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll

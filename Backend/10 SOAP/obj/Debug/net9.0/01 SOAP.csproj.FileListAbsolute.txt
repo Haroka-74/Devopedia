@@ -1,0 +1,138 @@
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\appsettings.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\01 SOAP.staticwebassets.endpoints.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\01 SOAP.exe
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\01 SOAP.deps.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\01 SOAP.runtimeconfig.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\01 SOAP.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\01 SOAP.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\SoapCore.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\System.ServiceModel.Http.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\System.ServiceModel.Duplex.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\System.ServiceModel.Primitives.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\System.ServiceModel.Security.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\System.ServiceModel.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\cs\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\de\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\es\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\fr\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\it\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\ja\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\ko\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\pl\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\ru\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\tr\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\bin\Debug\net9.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.AssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.sourcelink.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\scopedcss\bundle\01 SOAP.styles.css
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.csproj.Up2Date
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\refint\01 SOAP.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\01 SOAP.genruntimeconfig.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\01 SOAP\obj\Debug\net9.0\ref\01 SOAP.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\appsettings.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\01 SOAP.staticwebassets.endpoints.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\01 SOAP.exe
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\01 SOAP.deps.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\01 SOAP.runtimeconfig.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\01 SOAP.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\01 SOAP.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\SoapCore.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\System.ServiceModel.Http.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\System.ServiceModel.Duplex.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\System.ServiceModel.Primitives.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\System.ServiceModel.Security.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\System.ServiceModel.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\cs\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\de\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\es\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\fr\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\it\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\ja\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\ko\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\pl\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\pt-BR\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\ru\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\tr\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\zh-Hans\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\zh-Hant\System.ServiceModel.Http.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\bin\Debug\net9.0\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.AssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.sourcelink.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\scopedcss\bundle\01 SOAP.styles.css
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.csproj.Up2Date
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\refint\01 SOAP.dll
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\01 SOAP.genruntimeconfig.cache
+C:\Users\hp\Desktop\Devopedia\Backend\10 SOAP\obj\Debug\net9.0\ref\01 SOAP.dll

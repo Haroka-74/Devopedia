@@ -1,0 +1,36 @@
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\bin\Debug\net9.0\04 Composition.exe
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\bin\Debug\net9.0\04 Composition.deps.json
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\bin\Debug\net9.0\04 Composition.runtimeconfig.json
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\bin\Debug\net9.0\04 Composition.dll
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\bin\Debug\net9.0\04 Composition.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\bin\Debug\net9.0\Spectre.Console.dll
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Composition.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Composition.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Composition.AssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Composition.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Composition.sourcelink.json
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Compo.23894938.Up2Date
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Composition.dll
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\refint\04 Composition.dll
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Composition.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\04 Composition.genruntimeconfig.cache
+C:\Users\hp\Desktop\Devopedia\Backend\04 Composition\obj\Debug\net9.0\ref\04 Composition.dll
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\bin\Debug\net9.0\04 Composition.exe
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\bin\Debug\net9.0\04 Composition.deps.json
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\bin\Debug\net9.0\04 Composition.runtimeconfig.json
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\bin\Debug\net9.0\04 Composition.dll
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\bin\Debug\net9.0\04 Composition.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\bin\Debug\net9.0\Spectre.Console.dll
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Composition.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Composition.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Composition.AssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Composition.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Composition.sourcelink.json
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Compo.23894938.Up2Date
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Composition.dll
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\refint\04 Composition.dll
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Composition.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\04 Composition.genruntimeconfig.cache
+C:\Users\hp\Desktop\Devopedia\Backend\05 Composition\obj\Debug\net9.0\ref\04 Composition.dll

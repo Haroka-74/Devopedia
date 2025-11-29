@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UC/sWWN82UQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Devopedia\\Backend\\06 File System\\Example 06\\Example 06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512"
+  ],
+  "logs": []
+}

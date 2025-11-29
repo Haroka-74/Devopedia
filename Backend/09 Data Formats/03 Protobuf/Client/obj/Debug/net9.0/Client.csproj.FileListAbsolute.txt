@@ -1,0 +1,36 @@
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\bin\Debug\net9.0\Client.exe
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\bin\Debug\net9.0\Client.deps.json
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\bin\Debug\net9.0\Client.dll
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\bin\Debug\net9.0\Client.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.sourcelink.json
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.csproj.Up2Date
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.dll
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\refint\Client.dll
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+C:\Users\hp\Desktop\Devopedia\Backend\08 Networking\05 Protobuf\Client\obj\Debug\net9.0\ref\Client.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\bin\Debug\net9.0\Client.exe
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\bin\Debug\net9.0\Client.deps.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\bin\Debug\net9.0\Client.runtimeconfig.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\bin\Debug\net9.0\Client.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\bin\Debug\net9.0\Client.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.AssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.sourcelink.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.csproj.Up2Date
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\refint\Client.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\Client.genruntimeconfig.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 Data Formats\03 Protobuf\Client\obj\Debug\net9.0\ref\Client.dll

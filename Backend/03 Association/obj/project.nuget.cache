@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5OYPVdE0IGw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Devopedia\\Backend\\03 Association\\02 Association.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512"
+  ],
+  "logs": []
+}

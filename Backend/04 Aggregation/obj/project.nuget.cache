@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ju+bxlGdqrA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Devopedia\\Backend\\04 Aggregation\\03 Aggregation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512"
+  ],
+  "logs": []
+}

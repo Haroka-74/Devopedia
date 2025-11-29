@@ -1,0 +1,35 @@
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\appsettings.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\02 REST.staticwebassets.endpoints.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\02 REST.exe
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\02 REST.deps.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\02 REST.runtimeconfig.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\02 REST.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\02 REST.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.AssemblyInfo.cs
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.sourcelink.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\scopedcss\bundle\02 REST.styles.css
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.csproj.Up2Date
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\refint\02 REST.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.pdb
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\02 REST.genruntimeconfig.cache
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\obj\Debug\net9.0\ref\02 REST.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\hp\Desktop\Devopedia\Backend\09 API Architectures\02 REST\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
